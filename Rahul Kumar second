@@ -1,0 +1,73 @@
+
+#main {
+  width: 300px;
+  height: 300px;
+  background-color: lightgreen;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  border-color:solid black;
+  border-radius: 15px;
+  box-shadow: -5px -5px 30px 5px #888888; 
+}
+
+#playerInfo {
+  position: relative;
+  top: 10px;  
+  text-align: center;  
+}
+
+#x, #o {
+    display: inline-block;
+    font-weight: bold;
+    width: 110px;
+    border-radius: 5px;
+}
+
+#playground {    
+    width: 214px;
+    height: 214px;
+    margin: auto;
+    position: relative;
+    top: 25px;
+}
+
+#cellGroup div {
+    background-color: darkgreen;
+    text-align: center;
+    vertical-align: text-top;
+    font-weight: bold;
+    font-size: 2.75em;
+    margin: 0 -4px -1px 0;
+    border: 1px solid white;
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+#player {
+  color:white;
+  cursor: pointer;
+}
+
+#player:hover {
+  color: green;
+}
+
+#result {
+    text-align: center;
+    vertical-align: text-top;
+    font-weight: bold;
+    font-size:1.1em;
+    position: relative;    
+    margin-left: auto;
+    margin-right: auto;
+    top: 25px;
+    cursor: pointer;    
+}
+
+#result:hover {
+    border-radius: 5px;
+    border: 1px dotted gray;
+}
