@@ -1,0 +1,136 @@
+@Import Url("Https://Fonts.Googleapis.Com/Css?Family=Poppins:400,500,600,700&Display=Swap");
+* {
+    Margin: 0;
+    Padding: 0;
+    Outline: None;
+    Box-Sizing: Border-Box;
+    Font-Family: "Poppins", Sans-Serif;
+}
+Body {
+    Height: 100vh;
+    Width: 100%;
+    Background: Linear-Gradient(115deg, #56d8e4 10%, #9f01ea 90%);
+}
+.Show-Btn {
+    Background: #Fff;
+    Padding: 10px 20px;
+    Font-Size: 20px;
+    Font-Weight: 500;
+    Color: #3498db;
+    Cursor: Pointer;
+    Box-Shadow: 0px 0px 10px Rgba(0, 0, 0, 0.1);
+}
+.Show-Btn,
+.Container {
+    Position: Absolute;
+    Top: 50%;
+    Left: 50%;
+    Transform: Translate(-50%, -50%);
+}
+Input[Type="Checkbox"] {
+    Display: None;
+}
+.Container {
+    Display: None;
+    Background: #Fff;
+    Width: 410px;
+    Padding: 30px;
+    Box-Shadow: 0 0 8px Rgba(0, 0, 0, 0.1);
+}
+#Show:checked ~ .Container {
+    Display: Block;
+}
+.Container .Close-Btn {
+    Position: Absolute;
+    Right: 20px;
+    Top: 15px;
+    Font-Size: 18px;
+    Cursor: Pointer;
+}
+.Container .Close-Btn:hover {
+    Color: #3498db;
+}
+.Container .Text {
+    Font-Size: 35px;
+    Font-Weight: 600;
+    Text-Align: Center;
+}
+.Container Form {
+    Margin-Top: -20px;
+}
+.Container Form .Data {
+    Height: 45px;
+    Width: 100%;
+    Margin: 40px 0;
+}
+Form .Data Label {
+    Font-Size: 18px;
+}
+Form .Data Input {
+    Height: 100%;
+    Width: 100%;
+    Padding-Left: 10px;
+    Font-Size: 17px;
+    Border: 1px Solid Silver;
+}
+Form .Data Input:focus {
+    Border-Color: #3498db;
+    Border-Bottom-Width: 2px;
+}
+Form .Forgot-Pass {
+    Margin-Top: -8px;
+}
+Form .Forgot-Pass A {
+    Color: #3498db;
+    Text-Decoration: None;
+}
+Form .Forgot-Pass A:hover {
+    Text-Decoration: Underline;
+}
+Form .Btn {
+    Margin: 30px 0;
+    Height: 45px;
+    Width: 100%;
+    Position: Relative;
+    Overflow: Hidden;
+}
+Form .Btn .Inner {
+    Height: 100%;
+    Width: 300%;
+    Position: Absolute;
+    Left: -100%;
+    Z-Index: -1;
+    Background: -Webkit-Linear-Gradient(
+        Right,
+        #56d8e4,
+        #9f01ea,
+        #56d8e4,
+        #9f01ea
+    );
+    Transition: All 0.4s;
+}
+Form .Btn:hover .Inner {
+    Left: 0;
+}
+Form .Btn Button {
+    Height: 100%;
+    Width: 100%;
+    Background: None;
+    Border: None;
+    Color: #Fff;
+    Font-Size: 18px;
+    Font-Weight: 500;
+    Text-Transform: Uppercase;
+    Letter-Spacing: 1px;
+    Cursor: Pointer;
+}
+Form .Signup-Link {
+    Text-Align: Center;
+}
+Form .Signup-Link A {
+    Color: #3498db;
+    Text-Decoration: None;
+}
+Form .Signup-Link A:hover {
+    Text-Decoration: Underline;
+}
