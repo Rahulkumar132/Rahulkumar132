@@ -1,0 +1,46 @@
+
+<!DOCTYPE Html>
+<!-- Created By CodingNepal -->
+<Html Lang="En" Dir="Ltr">
+    <Head>
+        <Meta Charset="Utf-8" />
+        <!-- Somehow I Got An Error, So I Comment The Title, Just Uncomment To Show -->
+        <!-- <Title>Popup Login Form Design | CodingNepal</Title> -->
+        <Link Rel="Stylesheet" Href="Style.Css" />
+        <Script Src="Https://Kit.Fontawesome.Com/A076d05399.Js"></Script>
+    </Head>
+    <Body>
+        <Div Class="Center">
+            <Input Type="Checkbox" Id="Show" />
+            <Label For="Show" Class="Show-Btn">View Form</Label>
+            <Div Class="Container">
+                <Label
+                    For="Show"
+                    Class="Close-Btn Fas Fa-Times"
+                    Title="Close"
+                ></Label>
+                <Div Class="Text">Login Form</Div>
+                <Form Action="#">
+                    <Div Class="Data">
+                        <Label>Email Or Phone</Label>
+                        <Input Type="Text" Required />
+                    </Div>
+                    <Div Class="Data">
+                        <Label>Password</Label>
+                        <Input Type="Password" Required />
+                    </Div>
+                    <Div Class="Forgot-Pass">
+                        <A Href="#">Forgot Password?</A>
+                    </Div>
+                    <Div Class="Btn">
+                        <Div Class="Inner"></Div>
+                        <Button Type="Submit">Login</Button>
+                    </Div>
+                    <Div Class="Signup-Link">
+                        Not A Member? <A Href="#">Signup Now</A>
+                    </Div>
+                </Form>
+            </Div>
+        </Div>
+    </Body>
+</Html>
