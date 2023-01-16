@@ -1,0 +1,64 @@
+208:            Cout<<"NThe Following Data Is Being Deleted";  
+209:            X.Display();  
+210:            P+=I;  
+211:            V.Erase(P,P+1);  
+212:       }  
+213:  }  
+214:  Void Edit_data()  
+215:  {  
+216:       Int I,J;  
+217:       Long Int Reg;  
+218:       Vector <Student>Vi;  
+219:       Cout<<"NEnter Reg. No.: ";  
+220:       Cin>>Reg;  
+221:       If(Search_reg(Reg,I)==1)  
+222:       {  
+223:            Cout<<"NEnter New Data:";  
+224:            Fflush(Stdin);  
+225:            V[I].Input();  
+226:       }  
+227:  }  
+228:  Int Main()  
+229:  {  
+230:       Int I=1;  
+231:       Get_file();  
+232:       While(I)  
+233:       {  
+234:            System("CLS");  
+235:            Cout<<"Ttt-----------------------------------------N";  
+236:            Cout<<"Ttt   Simple College Management Systemn";  
+237:            Cout<<"Ttt-----------------------------------------N";  
+238:            Cout<<"NtttEnter <1> To Add New Student"  
+239:                 <<"NtttEnter <2> To Display All Student"  
+240:                 <<"NtttEnter <3> To Remove Student"  
+241:                 <<"NtttEnter <4> To Edit Student"  
+242:                 <<"NtttEnter <5> To Search Student"  
+243:                 <<"NtttEnter <0> To Exitn";  
+244:            Cout<<"NntttEnter Your Choice:";       
+245:            Cin>>I;  
+246:            Switch(I)  
+247:            {  
+248:                 Case 1 :  
+249:                      Insert_new();  
+250:                      Break;  
+251:                 Case 2 :  
+252:                      Show();  
+253:                      Break;  
+254:                 Case 3 :  
+255:                      Delete_data();  
+256:                      Break;  
+257:                 Case 4 :  
+258:                      Edit_data();  
+259:                      Break;  
+260:                 Case 5 :  
+261:                      Search_and_show();  
+262:                      Break;  
+263:                 Case 0 :  
+264:                      Write_file();  
+265:                      Break;  
+266:                 Default :  
+267:                      Cout<<"NWRONG CHOICE!!!NTRY AGAIN";  
+268:            }  
+269:       }  
+270:       Return 0;  
+271:  }  
