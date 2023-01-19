@@ -1,0 +1,100 @@
+Body {
+    Font-Family: Arial, Helvetica, Sans-Serif;
+    Background-Color: #2782e3;
+    Font-Size: 15px;
+    Line-Height: 1.5;
+    Padding: 0;
+    Margin: 0;
+}
+* {
+    Box-Sizing: Border-Box;
+}
+.Container {
+    Width: 520px;
+    Height: Auto;
+    Margin: 100px Auto;
+    Background-Color: #Eee;
+    Border-Radius: 25px;
+}
+.Base {
+    Width: 100%;
+    Margin: 0;
+    Overflow: Hidden;
+    Display: Block;
+    Float: None;
+}
+.Block {
+    Width: 135px;
+    Padding: 5px 20px;
+    Margin-Left: 20px;
+    Display: Inline-Block;
+    Float: Left;
+}
+.Base H4 {
+    Font-Size: 26px;
+    Text-Align: Center;
+    Font-Family: Sans-Serif;
+    Font-Weight: Normal;
+    Margin-Top: 0px;
+    Box-Shadow: 0px 2px #Bababa;
+    Background: White;
+    Font-Size: 34px;
+    Color: Navy;
+}
+.Title {
+    Font-Size: 20px;
+    Text-Align: Left;
+    Font-Family: Sans-Serif;
+    Font-Weight: Normal;
+    Line-Height: 0.5;
+    Letter-Spacing: 0.5px;
+    Word-Spacing: 2.7px;
+    Color: #1073d0;
+}
+Input[Type="Text"] {
+    Width: 140px;
+    Margin: Auto;
+    Outline: None;
+    Min-Height: 50px;
+    Border: 2px Solid #1073d0;
+    Padding: 12px;
+    Background-Color: #F7f7f7;
+    Border-Radius: 2px;
+    Color: #1073d0;
+    Font-Size: 17px;
+}
+Input[Type="Text"]:Focus {
+    Background-Color: #Ffffff;
+    Border: 2px Solid Orange;
+    Outline: None;
+}
+Input[Type="Button"] {
+    Width: 150px;
+    Margin-Left: 35%;
+    Margin-Top: 40px;
+    Outline: None;
+    Border: None;
+    Border-Radius: 2px;
+    Background-Color: #0761b6;
+    Color: #Ffffff;
+    Padding: 14px 16px;
+    Text-Align: Center;
+    Font-Size: 16px;
+}
+Input[Type="Button"]:Hover {
+    Background-Color: #003669;
+}
+#Age {
+    Display: Block;
+    Margin: 10px;
+    Margin-Top: 35px;
+    Padding: 10px;
+    Padding-Bottom: 20px;
+    Overflow: Hidden;
+    Font-Family: Verdana;
+    Font-Size: 23px;
+    Font-Weight: Normal;
+    Line-Height: 1.5;
+    Word-Spacing: 2.7px;
+    Color: Navy;
+}
