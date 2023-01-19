@@ -1,0 +1,23 @@
+Function Age() {
+    Var D1 = Document.GetElementById("Date").Value;
+    Var M1 = Document.GetElementById("Month").Value;
+    Var Y1 = Document.GetElementById("Year").Value;
+    Var Date = New Date();
+    Var D2 = Date.GetDate();
+    Var M2 = 1 + Date.GetMonth();
+    Var Y2 = Date.GetFullYear();
+    Var Month = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+    If (D1 > D2) {
+        D2 = D2 + Month[M2 - 1];
+        M2 = M2 - 1;
+    }
+    If (M1 > M2) {
+        M2 = M2 + 12;
+        Y2 = Y2 - 1;
+    }
+    Var D = D2 - D1;
+    Var M = M2 - M1;
+    Var Y = Y2 - Y1;
+    Document.GetElementById("Age").InnerHTML =
+        "Your Age Is " + Y + " Years " + M + " Months " + D + " Days";
+}
