@@ -1,0 +1,1776 @@
+
+<!--
+         KingƤιց 🐖
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   
+        |  ▐  ▐   |  
+        ╰┳━━━━┳╯
+          ( ▅▅▅ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+                            👑
+                  Oink oink 🐷
+-->
+<!DOCTYPE html>
+ <html>
+  <head>
+   <title>👑 King Oink oink 🐷</title>
+   <meta
+    name="viewport" 
+    content=
+     "width=device-width, 
+     initial-scale=1.0"/> 
+   <script src="http://code.jquery.com/jquery-latest.min.js">
+   </script>   
+   
+   <script src="https://code.jquery.com/jquery-3.1.1.js">
+   </script>   
+   
+   <script type="text/javascript" >
+    $(function(){
+     $('#animation div.image:gt(0)').hide();
+     setInterval(function(){
+      $('#animation :first-child').hide() .next('div.image').show() .end().appendTo('#animation');
+      }, 400); 
+     }); 
+   </script> 
+  </head> 
+  
+  <body>
+  
+   <div id="animation"> 
+   
+    <div class="image"  style="font: 8px monospace"> 
+
+                                            ┏━╮ ╭━┓
+                                            ┃ ┏👑┓ ┃
+                                            ╰┓▋ ▋┏╯
+                                           ╭━┻╮  ┗━━━━━╮╭╮
+                                           | ▎▎|  ╮        ┣╯
+                                           ╰━┳╯▅╯        /
+                                              ╰( ( )~~( ( )╯
+                                               / / /  / / /  
+                                               """"   """"
+    </div>
+    
+    <div class="image"  style="font: 8px monospace"> 
+
+                                   ┏━╮ ╭━┓
+                                   ┃ ┏👑┓ ┃
+                                   ╰┓▋ ▋┏╯
+                                  ╭━┻╮  ┗━━━━━╮╭-
+                                  | ▎▎|  ╮        ┣╯
+                                  ╰━┳╯▅╯        /
+                                     ╰( ( )~~( ( )╯
+                                       \ \ \  \ \ \  
+                                        """"   """"
+    </div>   
+    
+    <div class="image"  style="font: 8px monospace"> 
+
+                             ┏━╮ ╭━┓
+                             ┃ ┏👑┓ ┃
+                             ╰┓■ ■┏╯            
+                            ╭━┻╮  ┗━━━━━╮ ,
+                            | ▎▎|  ╮        ┣╯
+                            ╰━┳╯▬╯        /
+                               ╰( ( )~~( ( )╯
+                                / / /  / / /  
+                                """"   """"
+    </div>   
+    
+    <div class="image"  style="font: 8px monospace"> 
+
+                       ┏━╮ ╭━┓
+                       ┃ ┏👑┓ ┃
+                       ╰┓▋ ▋┏╯
+                      ╭━┻╮  ┗━━━━━╮╭-
+                      | ▎▎|  ╮        ┣╯
+                      ╰━┳╯▅╯        /
+                         ╰( ( )~~( ( )╯
+                           \ \ \  \ \ \  
+                            """"   """"
+    </div>  
+    
+    <div class="image"  style="font: 8px monospace"> 
+
+                 ┏━╮ ╭━┓
+                 ┃ ┏👑┓ ┃
+                 ╰┓▋ ▋┏╯
+                ╭━┻╮  ┗━━━━━╮╭╮
+                | ▎▎|  ╮        ┣╯
+                ╰━┳╯▅╯        /
+                   ╰( ( )~~( ( )╯
+                    / / /  / / /  
+                    """"   """"
+    </div> 
+    
+    <div class="image"  style="font: 8px monospace"> 
+
+           ┏━╮ ╭━┓
+           ┃ ┏👑┓ ┃
+           ╰┓▋ ▋┏╯
+          ╭━┻╮  ┗━━━━━╮╭-
+          | ▎▎|  ╮        ┣╯
+          ╰━┳╯▅╯        /
+             ╰( ( )~~( ( )╯
+               \ \ \  \ \ \  
+                """"   """"
+    </div>  
+    
+    <div class="image"  style="font: 8px monospace"> 
+
+     ┏━╮ ╭━┓
+     ┃ ┏👑┓ ┃
+     ╰┓■ ■┏╯            
+    ╭━┻╮  ┗━━━━━╮ ,
+    | ▎▎|  ╮        ┣╯
+    ╰━┳╯▬╯        /
+       ╰( ( )~~( ( )╯
+        / / /  / / /  
+        """"   """"
+    </div> 
+    
+    <div class="image"  style="font: 8px monospace"> 
+
+ ┏━╮ ╭━┓
+ ┃ ┏👑┓ ┃
+ ╰┓■ ■┏╯            
+╭━┻╮  ┗━━━━━╮ ,
+| ▎▎|  ╮        ┣╯
+╰━┳╯▬╯        /
+   ╰( ( )~~( ( )╯
+     \ \ \  \ \ \  
+      """"   """"
+    </div> 
+    
+        <div class="image"  style="font: 8px monospace"> 
+
+ ╭━┓
+👑┓ ┃
+ ■┏╯            
+  ┗━━━━━╮ ,
+| ╮        ┣╯
+▬╯        /
+( )~~( ( )╯
+ /  / / /  
+"   """"
+    </div> 
+    
+        <div class="image"  style="font: 8px monospace"> 
+
+ 
+ 
+             
+ ━━━╮ ,
+      ┣╯
+      /
+( ( )╯
+ \ \ \  
+  """"
+    </div>
+   
+    <div class="image"  style="font: 16px monospace"> 
+
+                            ┏━╮ ╭━┓
+                            ┃ ┏👑┓ ┃
+                            ╰┓■ ■┏╯
+                           ╭━┻╮  ┗━━━━━╮╭╮
+                           | ▎▎|  ╮        ┣╯
+                           ╰━┳╯▅╯        /
+                              ╰( ( )~~( ( )╯
+                                \/ /   \/ /  
+                                 ""     ""
+    </div> 
+    
+    <div class="image"  style="font: 16px monospace"> 
+
+                       ┏━╮ ╭━┓
+                       ┃ ┏👑┓ ┃
+                       ╰┓■ ■┏╯
+                      ╭━┻╮  ┗━━━━━╮╭-
+                      | ▎▎|  ╮        ┣╯
+                      ╰━┳╯▅╯        /
+                         ╰( ( )~~( ( )╯
+                          / /\ \ / /\ \  
+                          ""  "" ""  ""
+    </div>   
+    
+    <div class="image" style="font: 16px monospace"> 
+
+                     ┏━╮👑╭━┓
+                     \  /   \  / 
+                     ╰┓▋ ▋┏╯            
+                    ╭━┻╮  ┗━━━━━╮ ,
+                    | ▎▎|  ╮        ┣╯
+                    ╰━┳╯▬╯        /
+                       ╰( ( )~~( ( )╯
+                         \/ /   \/ /  
+                          ""     ""
+    </div>   
+    
+    <div class="image" style="font: 16px monospace"> 
+
+                   ┏━╮ ╭━┓
+                   ┃ ┏👑┓ ┃
+                   ╰┓■ ■┏╯
+                  ╭━┻╮  ┗━━━━━╮╭-
+                  | ▎▎|  ╮        ┣╯
+                  ╰━┳╯▅╯        /
+                     ╰( ( )~~( ( )╯
+                      / /\ \ / /\ \  
+                      ""  "" ""  ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+                 ┏━╮ ╭━┓
+                 ┃ ┏👑┓ ┃
+                 ╰┓■ ■┏╯
+                ╭━┻╮  ┗━━━━━╮╭╮
+                | ▎▎|  ╮        ┣╯
+                ╰━┳╯▅╯        /
+                   ╰( ( )~~( ( )╯
+                     \/ /   \/ /  
+                      ""     ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+               ┏━╮ ╭━┓
+               ┃ ┏👑┓ ┃
+               ╰┓■ ■┏╯
+              ╭━┻╮  ┗━━━━━╮╭-
+              | ▎▎|  ╮        ┣╯
+              ╰━┳╯▅╯        /
+                 ╰( ( )~~( ( )╯
+                  / /\ \ / /\ \  
+                  ""  "" ""  ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+            ┏━╮👑╭━┓
+             \  /  \  /
+             ╰┓▋ ▋┏╯            
+            ╭━┻╮  ┗━━━━━╮ ,
+            | ▎▎|  ╮        ┣╯
+            ╰━┳╯▬╯        /
+               ╰( ( )~~( ( )╯
+                 \/ /   \/ /  
+                  ""     ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+           ┏━╮ ╭━┓
+           ┃ ┏👑┓ ┃
+           ╰┓■ ■┏╯
+          ╭━┻╮  ┗━━━━━╮╭-
+          | ▎▎|  ╮        ┣╯
+          ╰━┳╯▅╯        /
+             ╰( ( )~~( ( )╯
+              / /\ \ / /\ \  
+              ""  "" ""  ""
+    </div>   
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   
+        |  ▐  ▐   |  
+        ╰┳━━━━┳╯
+          ( ▅▅▅ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   H
+        |  ▐  ▐   |  
+        ╰┳━━━━┳╯
+          ( ▬▬▬ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI
+        |  ▐  ▐   |  
+        ╰┳━━━━┳╯
+          ( ▅▅▅ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI
+        |  ▐  ▐   |  
+        ╰┳━━━━┳╯
+          ( ▬▬▬ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I
+        |  ▐  ▐   |  
+        ╰┳━━━━┳╯
+          ( ▅▅▅ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮👑╭━━┓
+       |    /  \    | 
+       ╰┓ ▋.  ▋ ┏╯
+        ╭┻▴━━━▴┻╮   HI I
+        |  ▐  ▐   |  
+        ╰┳━━━━┳╯
+          ( ▬▬▬ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I A
+        |  ▐  ▐   |  
+        ╰┳━━━━┳╯
+          ( ▅▅▅ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  
+        ╰┳━━━━┳╯
+          ( ▬▬▬ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  
+        ╰┳━━━━┳╯
+          ( ▅▅▅ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  K
+        ╰┳━━━━┳╯
+          ( ▬▬▬ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>    
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  Ki 
+        ╰┳━━━━┳╯
+          ( ▅▅▅ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  Kin
+        ╰┳━━━━┳╯
+          ( ▬▬▬ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  King
+        ╰┳━━━━┳╯
+          ( ▅▅▅ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingP
+        ╰┳━━━━┳╯
+          ( ▬▬▬ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPi
+        ╰┳━━━━┳╯
+          ( ▅▅▅ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig
+        ╰┳━━━━┳╯
+          ( ▬▬▬ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮👑╭━━┓
+       |    /  \    | 
+       ╰┓ ▋.  ▋ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯
+          ( ▬▬▬ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯T
+          ( ▬▬▬ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯TH
+          ( ▅▅▅ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE
+          ( ▬▬▬ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE M
+          ( ▅▅▅ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MA
+          ( ▬▬▬ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>   
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MAS
+          ( ▅▅▅ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASC
+          ( ▬▬▬ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCO
+          ( ▅▅▅ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT
+          ( ▬▬▬ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT O
+          ( ▅▅▅ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>   
+    
+    <div class="image" style="font: 16px monospace"> 
+                                🐝
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ▋.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╱
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+                               
+    <div class="image" style="font: 16px monospace"> 
+                        🐝
+       ┏━━╮👑╭━━┓
+       |    /  \    | 
+       ╰┓ ▋.  ▋ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+                    🐝
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+                🐝
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+            🐝
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+        🐝
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+    🐝
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+🐝
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-T
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-TH
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>                                                                                                                      
+ 
+ 
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE H
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HI
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HIS
+         ( ╲▁▁╱ )
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISP
+         ( ╲▁▁╱ ) 
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>   
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HISPA
+         ( ╲▁▁╱ ) 
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPAN
+         ( ╲▁▁╱ ) 
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>   
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HISPANI
+         ( ╲▁▁╱ ) 
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>   
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ ) 
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  P
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM 
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PR
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PRO
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROG
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>   
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGR
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRA
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>   
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAM
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMM
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMME
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMER
+         |  _➰_  |
+         / /    \ \ 
+         ""      ""
+    </div>                                              
+
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |   
+         / /    \ \ 
+         ""      ""
+    </div> 
+
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    G
+         / /    \ \ 
+         ""      ""
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GR
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GRO
+         / /    \ \ 
+         ""      ""
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROU
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+    </div>                 
+
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+                                🐕
+    </div> 
+
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▅▅▅ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+                              🐕
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+                            🐕
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+                          🐕
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+                        🐕
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+                    🐕
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+                    🐕
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+                    🐕💩
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+                  🐕  💩
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+                🐕    💩
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+              🐕      💩
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+            🐕        💩
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+          🐕          💩
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+        🐕            💩
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+      🐕              💩
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+    🐕                💩
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+  🐕                  💩
+    </div>
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \ 
+         ""      ""
+🐕                    💩
+    </div>   
+    
+    <div class="image" style="font: 16px monospace">
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div>  
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div>   
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div> 
+    
+    <div class="image" style="font: 16px monospace"> 
+
+       ┏━━╮  ╭━━┓
+       |    /👑\    | 
+       ╰┓ ■.  ■ ┏╯
+        ╭┻▴━━━▴┻╮   HI I AM
+        |  ▐  ▐   |  KingPig ❤
+        ╰┳━━━━┳╯THE MASCOT OF
+          ( ▬▬▬ )╭-THE HISPANIC
+         ( ╲▁▁╱ )  PROGRAMMERS
+         |  _➰_  |    GROUP 🇪🇦
+         / /    \ \   Palomica 💃
+         ""      ""
+                      💩
+    </div>                                                                                                               
+
+   </div> 
+   <h1>Palomica Lass</h1>
+<div id="contenedor"> 
+ <a href="#" class="btnAzul">🎵 Click 😁</a> 
+</div>   
+ </body> 
+ <audio controls style="display:none;" loop id="audio">
+  <source id="audio"
+     src="https://dl.dropbox.com/s/fbuszthn4wwarqe/everybodypoops.mp3?dl=1"> 
+ </audio>
+
+ <script type="text/javascript" charset="utf-8"> 
+  window.addEventListener("mouseover",play);
+  window.addEventListener("click",play);
+  function play(){
+   document.getElementById("audio").play();
+  }
+ </script>  
+</html>
+
+
