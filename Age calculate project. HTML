@@ -1,0 +1,56 @@
+<Body>
+    <Div Class="Container">
+        <Form>
+            <Div Class="Base">
+                <Div Class="Enter"><H4>Age Calculator</H4></Div>
+                <Div Class="Block">
+                    <P Class="Title">Date</P>
+                    <Input
+                        Type="Text"
+                        Name="Date"
+                        Id="Date"
+                        Placeholder="Dd"
+                        Required="Required"
+                        Minlength="1"
+                        Maxlength="2"
+                    />
+                </Div>
+                <Div Class="Block">
+                    <P Class="Title">Month</P>
+                    <Input
+                        Type="Text"
+                        Name="Month"
+                        Id="Month"
+                        Placeholder="Mm"
+                        Required="Required"
+                        Minlength="1"
+                        Maxlength="2"
+                    />
+                </Div>
+                <Div Class="Block">
+                    <P Class="Title">Year</P>
+                    <Input
+                        Type="Text"
+                        Name="Year"
+                        Id="Year"
+                        Placeholder="Yyyy"
+                        Required="Required"
+                        Minlength="4"
+                        Maxlength="4"
+                    />
+                </Div>
+            </Div>
+            <Div Class="Base">
+                <Div Class="Enter">
+                    <Input
+                        Type="Button"
+                        Name="Submit"
+                        Value="Submit"
+                        Onclick="Age()"
+                    />
+                </Div>
+            </Div>
+            <Div Id="Age"></Div>
+        </Form>
+    </Div>
+</Body>
