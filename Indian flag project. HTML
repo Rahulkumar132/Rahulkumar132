@@ -1,0 +1,24 @@
+<!DOCTYPE Html>
+<Html Lang="En">
+
+<Head>
+  <Meta Charset="UTF-8">
+  <Meta Http-Equiv="X-UA-Compatible" Content="IE=Edge">
+  <Meta Name="Viewport" Content="Width=Device-Width, Initial-Scale=1.0">
+  <Title>Independence Day</Title>
+  <Link Rel="Stylesheet" Href="Style.Css">
+</Head>
+
+<Body>
+
+  <Body>
+    <Div Id="Top"></Div>
+    <Div Id="Middle">
+      <Img Src="Http://Upload.Wikimedia.Org/Wikipedia/Commons/Thumb/1/17/Ashoka_Chakra.Svg/50px-Ashoka_Chakra.Svg.Png">
+    </Div>
+    <Div Id="Bottom"></Div>
+    <Div Id="Rod"></Div>
+    <Div Id="Text">Independence Day</Div>
+  </Body>
+
+</Html>
