@@ -1,0 +1,68 @@
+/* New Task */
+
+Label[For='New-Task'] {
+    Display: Block;
+    Margin: 0 0 20px;
+}
+
+Input#New-Task {
+    Float: Left;
+    Width: 318px;
+}
+
+P > Button:hover {
+    Color: #0FC57C;
+}
+
+
+/* Task List */
+
+Li {
+    Overflow: Hidden;
+    Padding: 20px 0;
+    Border-Bottom: 1px Solid #Eee;
+}
+
+Li > Input[Type="Checkbox"] {
+    Margin: 0 10px;
+    Position: Relative;
+    Top: 15px;
+}
+
+Li > Label {
+    Font-Size: 18px;
+    Line-Height: 40px;
+    Width: 237px;
+    Padding: 0 0 0 11px;
+}
+
+Li > Input[Type="Text"] {
+    Width: 226px;
+}
+
+Li > .Delete:hover {
+    Color: #CF2323;
+}
+
+
+/* Completed */
+
+#Completed-Tasks Label {
+    Text-Decoration: Line-Through;
+    Color: #888;
+}
+
+
+/* Edit Task */
+
+Ul Li Input[Type=Text] {
+    Display: None;
+}
+
+Ul Li.EditMode Input[Type=Text] {
+    Display: Block;
+}
+
+Ul Li.EditMode Label {
+    Display: None;
+}
