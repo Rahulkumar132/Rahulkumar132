@@ -1,0 +1,31 @@
+<!DOCTYPE Html>
+<Html Lang="En">
+  <Head>
+    <Meta Charset="UTF-8">
+    <Meta Http-Equiv="X-UA-Compatible" Content="IE=Edge">
+    <Meta Name="Viewport" Content="Width=Device-Width, Initial-Scale=1.0">
+    <Title>To Do List</Title>
+    <Link Rel="Stylesheet" Href="Style.Css">
+</Head>
+<Body>
+    <Div Class="Container">
+        <H2>TODO LIST</H2>
+        <H3>Add Item</H3>
+        <P>
+            <Input Id="New-Task" Type="Text"><Button>Add</Button>
+        </P>
+
+        <H3>Todo</H3>
+        <Ul Id="Incomplete-Tasks">
+            <Li><Input Type="Checkbox"><Label>Pay Bills</Label><Input Type="Text"><Button Class="Edit">Edit</Button><Button Class="Delete">Delete</Button></Li>
+            <Li><Input Type="Checkbox"><Label>Go Shopping</Label><Input Type="Text" Value="Go Shopping"><Button Class="Edit">Edit</Button><Button Class="Delete">Delete</Button></Li>
+        </Ul>
+
+        <H3>Completed</H3>
+        <Ul Id="Completed-Tasks">
+            <Li><Input Type="Checkbox" Checked><Label>See The Doctor</Label><Input Type="Text"><Button Class="Edit">Edit</Button><Button Class="Delete">Delete</Button></Li>
+        </Ul>
+    </Div>
+<Script Src="Index.Js"></Script>
+</Body>
+</Html>
