@@ -1,0 +1,146 @@
+Var TaskInput = Document.GetElementById("New-Task"); //New-Task
+Var AddButton = Document.GetElementsByTagName("Button")[0]; //First Button
+Var IncompleteTasksHolder = Document.GetElementById("Incomplete-Tasks"); //Incomplete-Tasks
+Var CompletedTasksHolder = Document.GetElementById("Completed-Tasks"); //Completed-Tasks
+
+//New Task List Item
+Var CreateNewTaskElement = Function(TaskString) {
+    //Create List Item
+    Var ListItem = Document.CreateElement("Li");
+
+    //Input (Checkbox)
+    Var CheckBox = Document.CreateElement("Input"); // Checkbox
+    //Label
+    Var Label = Document.CreateElement("Label");
+    //Input (Text)
+    Var EditInput = Document.CreateElement("Input"); // Text
+    //Button.Edit
+    Var EditButton = Document.CreateElement("Button");
+    //Button.Delete
+    Var DeleteButton = Document.CreateElement("Button");
+
+    //Each Element Needs Modifying
+
+    CheckBox.Type = "Checkbox";
+    EditInput.Type = "Text";
+
+    EditButton.InnerText = "Edit";
+    EditButton.ClassName = "Edit";
+    DeleteButton.InnerText = "Delete";
+    DeleteButton.ClassName = "Delete";
+
+    Label.InnerText = TaskString;
+
+    //Each Element Needs Appending
+    ListItem.AppendChild(CheckBox);
+    ListItem.AppendChild(Label);
+    ListItem.AppendChild(EditInput);
+    ListItem.AppendChild(EditButton);
+    ListItem.AppendChild(DeleteButton);
+
+    Return ListItem;
+}
+
+//Add A New Task
+Var AddTask = Function() {
+    Console.Log("Add Task...");
+    //Create A New List Item With The Text From #New-Task:
+    Var ListItem = CreateNewTaskElement(TaskInput.Value);
+    //Append ListItem To IncompleteTasksHolder
+    IncompleteTasksHolder.AppendChild(ListItem);
+    BindTaskEvents(ListItem, TaskCompleted);
+
+    TaskInput.Value = "";
+}
+
+//Edit An Existing Task
+Var EditTask = Function() {
+    Console.Log("Edit Task...");
+
+    Var ListItem = This.ParentNode;
+
+    Var EditInput = ListItem.QuerySelector("Input[Type=Text");
+    Var Label = ListItem.QuerySelector("Label");
+
+    Var ContainsClass = ListItem.ClassList.Contains("EditMode");
+
+    //If The Class Of The Parent Is .EditMode
+    If (ContainsClass) {
+        //Switch From .EditMode
+        //Label Text Become The Input's Value
+        Label.InnerText = EditInput.Value;
+    } Else {
+        //Switch To .EditMode
+        //Input Value Becomes The Label's Text
+        EditInput.Value = Label.InnerText;
+    }
+
+    //Toggle .EditMode On The List Item
+    ListItem.ClassList.Toggle("EditMode");
+
+}
+
+//Delete An Existing Task
+Var DeleteTask = Function() {
+    Console.Log("Delete Task...");
+    Var ListItem = This.ParentNode;
+    Var Ul = ListItem.ParentNode;
+
+    //Remove The Parent List Item From The Ul
+    Ul.RemoveChild(ListItem);
+}
+
+//Mark A Task As Complete
+Var TaskCompleted = Function() {
+    Console.Log("Task Complete...");
+    //Append The Task List Item To The #Completed-Tasks
+    Var ListItem = This.ParentNode;
+    CompletedTasksHolder.AppendChild(ListItem);
+    BindTaskEvents(ListItem, TaskIncomplete);
+}
+
+//Mark A Task As Incomplete
+Var TaskIncomplete = Function() {
+    Console.Log("Task Incomplete...");
+    //Append The Task List Item To The #Incomplete-Tasks
+    Var ListItem = This.ParentNode;
+    IncompleteTasksHolder.AppendChild(ListItem);
+    BindTaskEvents(ListItem, TaskCompleted);
+}
+
+Var BindTaskEvents = Function(TaskListItem, CheckBoxEventHandler) {
+    Console.Log("Bind List Item Events");
+    //Select TaskListItem's Children
+    Var CheckBox = TaskListItem.QuerySelector("Input[Type=Checkbox]");
+    Var EditButton = TaskListItem.QuerySelector("Button.Edit");
+    Var DeleteButton = TaskListItem.QuerySelector("Button.Delete");
+
+    //Bind EditTask To Edit Button
+    EditButton.Onclick = EditTask;
+
+    //Bind DeleteTask To Delete Button
+    DeleteButton.Onclick = DeleteTask;
+
+    //Bind CheckBoxEventHandler To Checkbox
+    CheckBox.Onchange = CheckBoxEventHandler;
+}
+
+// Var AjaxRequest = Function() {
+// 	Console.Log("AJAX Request");
+// }
+
+//Set The Click Handler To The AddTask Function
+AddButton.AddEventListener("Click", AddTask);
+//AddButton.AddEventListener("Click", AjaxRequest);
+
+//Cycle Over IncompleteTasksHolder Ul List Items
+For (Var I = 0; I < IncompleteTasksHolder.Children.Length; I++) {
+    //Bind Events To List Item's Children (TaskCompleted)
+    BindTaskEvents(IncompleteTasksHolder.Children[I], TaskCompleted);
+}
+
+//Cycle Over CompletedTasksHolder Ul List Items
+For (Var I = 0; I < CompletedTasksHolder.Children.Length; I++) {
+    //Bind Events To List Item's Children (TaskIncomplete)
+    BindTaskEvents(CompletedTasksHolder.Children[I], TaskIncomplete);
+}
