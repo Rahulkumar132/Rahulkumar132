@@ -1,0 +1,88 @@
+/* Basic Style */
+
+Body {
+    Color: #333;
+    Font-Family: Lato, Sans-Serif;
+    Background-Color:#E4e4e4;
+}
+
+.Container {
+    Display: Block;
+    Width: 400px;
+    Margin: 10px Auto 100px;
+    Background-Color:#Fff;
+    Padding:0px 10px 10px 10px;
+    Border-Radius:10px
+}
+
+H2 {
+    Text-Align:center;
+    Padding-Top:10px;
+    Margin-Bottom:0px;
+}
+
+Ul {
+    Margin: 0;
+    Padding: 0;
+}
+
+Li * {
+    Float: Left;
+}
+
+Li,
+H3 {
+    Clear: Both;
+    List-Style: None;
+}
+
+Input,
+Button {
+    Outline: None;
+}
+
+Button {
+    Background: None;
+    Border: 0px;
+    Color: #888;
+    Font-Size: 15px;
+    Width: 60px;
+    Margin: 10px 0 0;
+    Font-Family: Lato, Sans-Serif;
+    Cursor: Pointer;
+}
+
+Button:hover {
+    Color: #333;
+}
+
+
+/* Heading */
+
+H3,
+Label[For='New-Task'] {
+    Color: #333;
+    Font-Weight: 700;
+    Font-Size: 15px;
+    Border-Bottom: 2px Solid #333;
+    Padding: 20px 0 10px;
+    Margin: 0;
+    Text-Transform: Uppercase;
+}
+
+Input[Type="Text"] {
+    Margin: 0;
+    Font-Size: 18px;
+    Line-Height: 18px;
+    Height: 18px;
+    Padding: 10px;
+    Border: 1px Solid #Ddd;
+    Background: #Fff;
+    Border-Radius: 6px;
+    Font-Family: Lato, Sans-Serif;
+    Color: #888;
+}
+
+Input[Type="Text"]:Focus {
+    Color: #333;
+}
